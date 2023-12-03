@@ -1,5 +1,5 @@
 # TechBlog
-TechBlog is a platform where tech enthusiasts can share their thoughts, opinions, and insights about various tech-related topics. Users can sign in, add comments, and leave ratings based on their perception of the seriousness of the matter.
+I was able to create a simple techblog website using one of my projects for health and calorie tracking and converted it for passionate tech users that want to voice their thoughts. TechBlog is a platform where tech enthusiasts can share their thoughts, opinions, and insights about various tech-related topics. Users can sign in, add comments, and leave ratings based on their perception of the seriousness of the matter.
 
 ## Features
 User Authentication: Users can sign in to their accounts. If a user doesn't have an account, they can easily create one.
